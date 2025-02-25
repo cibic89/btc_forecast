@@ -171,5 +171,5 @@ cython_debug/
 .pypirc
 
 # Custom
-/Bitstamp_BTCUSD_d.csv
+/datasets/Bitstamp_BTCUSD_d.csv
 .idea/
