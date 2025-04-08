@@ -129,7 +129,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.venv/
 env/
 venv/
 ENV/
@@ -171,5 +171,8 @@ cython_debug/
 .pypirc
 
 # Custom
-/datasets/Bitstamp_BTCUSD_d.csv
+/datasets/
 .idea/
+**/outdated.7z
+/models/
+/results/
