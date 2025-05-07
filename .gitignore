@@ -176,3 +176,4 @@ cython_debug/
 **/outdated.7z
 /models/
 /results/
+/ag_temp_models/
